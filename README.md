@@ -34,6 +34,7 @@ This project uses the Bank Marketing dataset to predict whether a client will su
 
 ## Dataset
 The original dataset is derived from the **Bank Marketing Dataset** available on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing).
+The dataset contains marketing campaign data for a Portuguese banking institution and was used for binary classification tasks.  
 
 ## Author
 [Utkarsh Ganjihal](https://www.linkedin.com/in/utkarsh-ganjihal/)
