@@ -1,0 +1,19 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+imblearn
+xgboost
+
+
+
+
+--
+Explanation of Included Libraries
+pandas: For data manipulation and preprocessing.
+numpy: For numerical operations and handling arrays.
+scikit-learn: For machine learning models, preprocessing, and evaluation metrics.
+matplotlib: For visualizations (e.g., plotting performance metrics).
+imblearn: For handling class imbalance using SMOTE.
+xgboost: For implementing and tuning the XGBoost model.
+--
